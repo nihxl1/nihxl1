@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 
 <h3 align="center">
-  <a href="https://github.com/nihalhk">
+  <a href="https://github.com/nihalhk-dev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A57FF&width=435&lines=Aspiring+Machine+Learning+Engineer;Python+Developer+%7C+Automation+Enthusiast;Building+my+future+with+AI+and+creativity!" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihalhk&label=Profile%20views&color=0e75b6&style=flat" alt="nihalhk" />
+  <img src="https://komarev.com/ghpvc/?username=nihalhk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nihalhk-dev" />
 </p>
 
 ---
@@ -18,19 +18,19 @@
 🚀 Passionate about **AI, data, and creative problem-solving**
 
 I’m a **software developer** currently transitioning into the world of **Data Science** and **Machine Learning**.  
-I love building things that blend logic with imagination — from small automation scripts that make life easier to intelligent systems that learn and evolve.
+I love building things that blend logic with imagination — from **automation scripts** that simplify workflows to **intelligent systems** that learn and evolve.
 
 ---
 
 ### 🚀 About Me  
 
 🎓 Background in **Software Development** (Python, PHP, Django, CodeIgniter, JavaScript, HTML, CSS)  
-⚙️ Experience in **Python automation**, streamlining repetitive processes and improving efficiency  
+⚙️ Experience in **Python automation**, process optimization, and backend systems  
 📚 Currently focusing on **AI, ML, and Data Science**  
-🧩 Proficient with **modern development tools** like Git, Docker, REST APIs, and cloud-based workflows  
-💡 Interests: **model optimization, generative AI, automation, and applied deep learning**  
+🧩 Skilled in **modern technologies** widely used in development: **Docker, Git, REST APIs, and cloud-based tools**  
+💡 Interests: **generative AI, model optimization, automation, and applied deep learning**  
 🎮 Outside of coding, I love **games, storytelling**, and designing creative projects like my RPG *Echoes of the Abyss*  
-🌍 Open to collaboration on **open-source AI or data-related projects**
+🌍 Open to collaboration on **open-source AI or data-driven projects**
 
 ---
 
@@ -58,8 +58,8 @@ I love building things that blend logic with imagination — from small automati
 
 ### 🧠 What I’m Working On  
 
-- 🧩 Building small ML projects to strengthen my fundamentals  
-- ⚙️ Automating workflows using Python to enhance productivity  
+- 🧩 Building ML projects to strengthen my fundamentals  
+- ⚙️ Automating workflows and improving processes using Python  
 - 🤖 Creating an AI-powered web app for my portfolio  
 - 📝 Writing about my ML learning journey on Dev.to  
 
@@ -79,7 +79,7 @@ I love building things that blend logic with imagination — from small automati
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/nihalhk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihalhk" height="30" width="40" /></a>
+<a href="https://github.com/nihalhk-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihalhk-dev" height="30" width="40" /></a>
 <a href="https://dev.to/dev.nihaasnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.nihaasnd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
@@ -107,15 +107,15 @@ I love building things that blend logic with imagination — from small automati
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalhk&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalhk-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-dev&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhk&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhk-dev&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
