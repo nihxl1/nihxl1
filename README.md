@@ -65,18 +65,6 @@ I love building things that blend logic with imagination — from **automation s
 
 ---
 
-### 🌟 Featured Projects  
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| **ML Portfolio App** | A personal portfolio showcasing my machine learning projects | Django, TensorFlow, Scikit-learn |
-| **Echoes of the Abyss (RPG)** | Story-driven psychological RPG with tactical combat and AI-driven dialogue | Python, Godot, Custom ML Tools |
-| **Automation Toolkit** | Scripts for automating repetitive developer workflows | Python, Pandas, Git |
-
-*(More coming soon...)*
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nihxl1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihxl1" height="30" width="40" /></a>
