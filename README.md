@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 
 <h3 align="center">
-  <a href="https://github.com/nihalhk-dev">
+  <a href="https://github.com/nihxl1">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A57FF&width=435&lines=Aspiring+Machine+Learning+Engineer;Python+Developer+%7C+Automation+Enthusiast;Building+my+future+with+AI+and+creativity!" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihalhk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nihalhk-dev" />
+  <img src="https://komarev.com/ghpvc/?username=nihxl1&label=Profile%20views&color=0e75b6&style=flat" alt="nihxl1" />
 </p>
 
 ---
@@ -79,14 +79,11 @@ I love building things that blend logic with imagination — from **automation s
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/nihalhk-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihalhk-dev" height="30" width="40" /></a>
+<a href="https://github.com/nihxl1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihxl1" height="30" width="40" /></a>
 <a href="https://dev.to/dev.nihaasnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.nihaasnd" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nihal-hamou-sbira-ktitu-66107027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nihal-hamou-sbira-ktitu-66107027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
-
-<a href="[https://linkedin.com/in/your-linkedin]()" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
 
 ---
 
@@ -110,15 +107,15 @@ I love building things that blend logic with imagination — from **automation s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalhk-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihxl1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-dev&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihxl1&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhk-dev&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihxl1&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
@@ -128,5 +125,3 @@ I love building things that blend logic with imagination — from **automation s
 > *“The best way to predict the future is to create it.” — Alan Kay*  
 >  
 > I’m currently creating mine through **data, algorithms, and endless curiosity**.  
-
----
